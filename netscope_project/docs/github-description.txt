@@ -1,0 +1,4 @@
+NetScope: Python TCP/IP network diagnostics lab with IPv4 subnet analysis, DNS/TCP checks, local interface monitoring, topology visualization, testing, and GitHub-ready modular architecture.
+
+Suggested topics:
+networking tcpip ipv4 subnetting dns tcp python streamlit network-monitoring cybersecurity network-engineering network-automation visualization
